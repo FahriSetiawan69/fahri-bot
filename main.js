@@ -11,11 +11,11 @@ const chalk = require("chalk")
 const githubFiles = [
   {
     name: "main.js",
-    url: "https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/main.js"
+    url: "https://raw.githubusercontent.com/FahriSetiawan69/fahri-bot/main/main.js"
   },
   {
     name: "zeroyt7.js",
-    url: "https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/zeroyt7.js"
+    url: "https://raw.githubusercontent.com/FahriSetiawan69/fahri-bot/main/zeroyt7.js"
   }
 ]
 
@@ -168,4 +168,5 @@ async function updateFromGithub() {
   }
 
   startBot()
+
 })()
