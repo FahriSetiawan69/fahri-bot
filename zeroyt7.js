@@ -496,6 +496,8 @@ try {
 • 🕒 Waktu: ${time}
 • ⚙️ Status: Online
 • ⏱️ Uptime: ${uptime}
+
+_VERSION 0.0.1_
 `
  await sock.sendMessage(from, { text: statusMsg.trim() }, { quoted: m })
  return
