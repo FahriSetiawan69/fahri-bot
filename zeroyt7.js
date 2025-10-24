@@ -477,6 +477,7 @@ try {
 │ • .menu
 │ • .rules
 │ • .report (reply pesan)
+│ _Fitur Lain Coming Soon_
 │
 ╰───────────────❖
 `
